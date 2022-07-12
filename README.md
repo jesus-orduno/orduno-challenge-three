@@ -37,8 +37,8 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot
 
-![orduno-password-generator-screenshot](#)
+![orduno-password-generator-screenshot](assets/images/orduno-challenge-three.png)
 
 ## Link to Deployed Application
 
-[Page published here](#)
+[Page published here](https://jesus-orduno.github.io/orduno-challenge-three/)
